@@ -56,6 +56,11 @@ nav ul li {
   	margin-left: 1em;
 }
 
+.big_box{
+    height: 550px;
+    width: 810px;
+}
+
 div{
     background-color: #ffefd5;
      margin-inline-start: 10px;
